@@ -1,0 +1,48 @@
+/* yazı tipi times new roman
+background soft renk */
+.f1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/**********İNDEX****************/
+/* ANA BAŞLIK SOFT BLACK ve xlarge size */
+.text-sblack{
+    color:rgb(65, 63, 63);
+}
+/* girişin fontları 21 px */
+.fontsize{
+    font-size: 21px;
+}
+/* YAZARLAR brown
+maddeleri ortala*/
+.brown{
+    color:brown;
+}
+ul li {
+    text-align:center;
+    list-style-position: inside;
+}
+/* **********yazılar******** */
+/* h2  mavi */
+h2, h3 {
+    color:rgb(60, 60, 132);
+}
+
+/* madde işaretleri:ortala */
+ol li {
+    list-style-position: inside;
+}
+/*********** hakkımızda****** */
+/* metinler italic, vizyon brown olsun */
+.p1 {
+    font-style: italic;
+}
+#vizyon{
+    color:brown;
+}
+
+
+
+
+  
+  
